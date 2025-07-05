@@ -55,91 +55,113 @@ Dataset ini mencakup kombinasi variabel numerik dan kategorikal, memberikan pelu
 ## Exploratory Data Analysis - Univariate Analysis
 ---
 Ada 7 barplot yang saya buat dinotebook.
-- Barplot pertama
 
-![Image](https://github.com/user-attachments/assets/1de1d394-5988-4482-8246-4b64a563a0f7)
+**1. Barplot pertama**
+
+<img width="560" height="496" alt="Image" src="https://github.com/user-attachments/assets/cce73fc6-f531-4b75-90be-56dc2f698c28" />
 
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - Sebagian besar sampel Parental Involvement berada pada tingkat Medium dengan jumlah 2992 yang mewakili 51,3% dari total data.
 - Tingkat ketelibatan orang tua pada kategori High lebih sedikit dibandingkan dengan kategori Medium, tetapi lebih tinggi dibandingkan kategori low.
 - Kategori Low merupakan jumlah paling sedikit diantara kegita kategori.
 
-- Barplot kedua
+**2. Barplot kedua**
 
-![Image](https://github.com/user-attachments/assets/65459e0e-8374-4b2a-acae-1f38cc5c6466)
+<img width="560" height="496" alt="Image" src="https://github.com/user-attachments/assets/9756dd75-0ece-4d9a-b529-17d8779adfe3" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - Sebagian besar sampel Access to Resources berada pada tingkat Medium dengan jumlah 2936 yang mewakili 50,3% dari total data.
 - Tingkat ketersediaan sumber daya pendidikan untuk siswa pada kategori High lebih sedikit dibandingkan dengan kategori Medium, tetapi lebih tinggi dibandingkan kategori low.
 - Kategori Low merupakan jumlah paling sedikit diantara kegita kategori.
 
-- Barplot ketiga
+**3. Barplot ketiga**
 
-![Image](https://github.com/user-attachments/assets/8a56cd76-66d1-438b-bde7-e1b0e99086ce)
+<img width="560" height="463" alt="Image" src="https://github.com/user-attachments/assets/413dfe75-9d4a-4e1c-8bad-97b9636ce548" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - siswa yang mengikuti kegiatan ekstrakurikuler memiliki jumlah yang lebih banyak dari pada siswa yang tidak mengikuti ekstrakurikuler.
 
 
-- Barplot keempat
+**4. Barplot keempat**
 
-![Image](https://github.com/user-attachments/assets/88dac927-f6a8-4af4-9188-876c723099cf)
+<img width="560" height="496" alt="Image" src="https://github.com/user-attachments/assets/fb341e3b-ac19-4055-ac7e-1208fd6a267b" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - Sebagian besar sampel Motivation Level berada pada tingkat Medium dengan jumlah 2967 yang mewakili 50,8% dari total data.
 - Tingkat motivasi siswa untuk belajar pada kategori Low lebih sedikit dibandingkan dengan kategori Medium, tetapi lebih tinggi dibandingkan kategori High.
 - Kategori High merupakan jumlah paling sedikit diantara kegita kategori.
 
-- Barplot kelima
+**5. Barplot kelima**
 
-![Image](https://github.com/user-attachments/assets/b5efc812-c50d-4411-b856-f2bdea91af63)
+<img width="560" height="463" alt="Image" src="https://github.com/user-attachments/assets/6b6f461b-4fc8-476c-983e-eb7bce8b45fd" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - siswa yang memiliki akses internet memiliki jumlah yang lebih banyak dari pada siswa yang tidak memiliki akses internet.
 
-- Barplot keenam
+**6. Barplot keenam**
 
-![Image](https://github.com/user-attachments/assets/cae57fea-9a33-418e-a47b-dc5a1e266a4f)
+<img width="560" height="496" alt="Image" src="https://github.com/user-attachments/assets/675e367e-342e-43a9-b8be-3b2b454f1f62" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - Sebagian besar sampel Family Income berada pada tingkat Medium dengan jumlah 2364 yang mewakili 40,5% dari total data.
 - Tingkat pendapatan keluarga siswa pada kategori Low hampir sama banyak dengan kategori Medium, tetapi lebih tinggi dibandingkan kategori High.
 - Kategori High merupakan jumlah paling sedikit diantara kegita kategori.
 
 **7. Barplot ketujuh**
-![Image](https://github.com/user-attachments/assets/f09c74e4-a91f-417e-98c5-15a56a9384a7)
+
+<img width="560" height="496" alt="Image" src="https://github.com/user-attachments/assets/62dbbf12-5965-4ed5-817d-f970d91bd9c7" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - Sebagian besar sampel Persepsi siswa terhadap kualitas pengajaran guru berada pada tingkat Medium dengan jumlah 3499 yang mewakili 60% dari total data.
 - Tingkat Persepsi siswa terhadap kualitas pengajaran guru pada kategori High lebih sedikit dibandingkan dengan kategori Medium, tetapi lebih tinggi dibandingkan kategori Low.
 - Kategori Low merupakan jumlah paling sedikit diantara kegita kategori.
 
 **8. Barplot kedelapan**
-![Image](https://github.com/user-attachments/assets/25740beb-ad80-4d3e-ac74-32cd5d705a0f)
+
+<img width="560" height="489" alt="Image" src="https://github.com/user-attachments/assets/6227afb2-2c79-46c1-be5d-50f5431a5a19" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 - School Type dengan kategori Public memiliki jumlah yang lebih banyak dari pada kategori Private.
 
 **9. Barplot kesembilan**
-![Image](https://github.com/user-attachments/assets/c5fec92a-a779-4c25-b43c-9d80686f1fd7)
+
+<img width="560" height="503" alt="Image" src="https://github.com/user-attachments/assets/929471db-3a74-490e-90c2-5183623f0995" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 sebagian besar sampel memiliki pengaruh teman yang positif atau netral, sementara pengaruh negatif relatif lebih kecil.
 
 **10. Barplot kesepuluh**
-![Image](https://github.com/user-attachments/assets/79a025e6-2e9b-4829-823d-a82d7c536540)
+
+<img width="560" height="463" alt="Image" src="https://github.com/user-attachments/assets/9dbbdcc1-f3d2-4b7d-a076-1d44e93a7a59" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 Sebagian besar sampel tidak memiliki gangguan belajar.
 
 **11. Barplot sebelas**
-![Image](https://github.com/user-attachments/assets/a0e3c679-241d-424d-9f56-7df5e66cc055)
+
+<img width="560" height="533" alt="Image" src="https://github.com/user-attachments/assets/3b377593-5ad8-4280-8154-1cc6cb076597" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 Sebagian besar orang tua memiliki tingkat pendidikan setara High School, sementara tingkat Postgraduate merupakan yang paling sedikit.
 
-**12. Barplot duabelas**
-![Image](https://github.com/user-attachments/assets/ce6749f5-cca8-437a-bc3a-3b6e897068de)
+**12. Barplot dua belas**
+
+<img width="560" height="507" alt="Image" src="https://github.com/user-attachments/assets/9f782977-7f31-4598-bdb7-51ad9eaf0ccc" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 Mayoritas individu dalam sampel memiliki jarak rumah yang dekat dengan lokasi yang dianalisis, yaitu 59.6% dari total sampel. Sementara itu, sekitar 30.5% memiliki jarak yang sedang, dan hanya 9.9% yang memiliki jarak jauh.
 
-**13. Barplot tigabelas**
-![Image](https://github.com/user-attachments/assets/918a31c0-ea79-4340-b2b6-0e05ab8f7f1c)
+**13. Barplot tiga belas**
+
+<img width="560" height="491" alt="Image" src="https://github.com/user-attachments/assets/257b617d-796d-48a3-8973-60323a2c5a98" />
+
 Dari visualisasi diatas dapat disimpulkan bahwa:
 jumlah pria lebih banyak dari jumlah perempuan.
 
 **14. histogram**
-![Image](https://github.com/user-attachments/assets/3260c444-ccdb-4afe-b565-b2362ef30903)
+
+<img width="1606" height="1221" alt="Image" src="https://github.com/user-attachments/assets/b2ba748a-e883-4a86-9403-475b47c2ca63" />
+
 Saya juga menggunakan histogram untuk menganalisis data, karena grafik ini memudahkan saya melihat distribusi dan pola data dengan jelas, sehingga bisa menarik kesimpulan yang lebih tepat.
 dan hasilnya Sebagian besar siswa belajar sekitar 15-25 jam per minggu, dengan distribusi waktu belajar yang menyerupai pola normal. Kehadiran siswa di kelas cukup merata, berada di kisaran 60-100 persen. Mayoritas siswa tidur 7-8 jam, sesuai dengan durasi tidur yang ideal. Nilai sebelumnya menunjukkan tren meningkat, dengan lonjakan signifikan pada nilai tertinggi (100). Banyak siswa tidak mengikuti sesi bimbingan belajar, tetapi bagi yang mengikuti, mereka cenderung menghadiri 1-3 sesi. Aktivitas fisik siswa didominasi oleh tingkat sedang, dengan puncak di tingkat aktivitas 3. Nilai ujian juga menunjukkan distribusi normal, dengan mayoritas siswa mendapatkan nilai rata-rata sekitar 68-70.
 
@@ -148,28 +170,44 @@ dan hasilnya Sebagian besar siswa belajar sekitar 15-25 jam per minggu, dengan d
 Untuk analisis multivariat, saya menggunakan barplot, pairplot, dan heatmap. Barplot membantu untuk membandingkan kategori, pairplot memungkinkan melihat hubungan antar variabel, dan heatmap memberi gambaran visual tentang korelasi antar variabel.
 
 Barplot:
-![Image](https://github.com/user-attachments/assets/ec801a62-8af0-4c1a-be87-03304a539d6d)
-![Image](https://github.com/user-attachments/assets/c23aeb68-223c-4c29-85a5-f580d717200e)
-![Image](https://github.com/user-attachments/assets/01b9d47a-ae9e-4260-afbb-cd0b120f99e6)
-![Image](https://github.com/user-attachments/assets/72042687-f340-4590-8e7d-392ec7114d0d)
-![Image](https://github.com/user-attachments/assets/865853e9-ddd2-4d78-a14c-dacf70c782f6)
-![Image](https://github.com/user-attachments/assets/651441b5-ed28-4a83-8634-ffc6df95a7f7)
-![Image](https://github.com/user-attachments/assets/1166856f-13a3-499c-8df0-7180e951c1ce)
-![Image](https://github.com/user-attachments/assets/50c41edf-4943-41b4-9b75-4b8aa8df90cd)
-![Image](https://github.com/user-attachments/assets/93fa0707-2101-44af-90d7-dcfd0e666348)
-![Image](https://github.com/user-attachments/assets/2d0533d4-08b0-4c85-b41e-2a52b336c8c5)
-![Image](https://github.com/user-attachments/assets/97209de7-6ded-4015-b890-cb3d9ff931ac)
-![Image](https://github.com/user-attachments/assets/fa60e1aa-4c8a-4ae6-8332-4b9fb3170450)
-![Image](https://github.com/user-attachments/assets/4ab898c3-a6f7-44d6-ba93-344c359bff59)
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/a49e89f7-4822-488c-b04c-8930d28b5c10" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/591734a5-236f-426d-be68-674c3f454296" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/cca613ef-b1b1-439a-86d0-83ce366eb759" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/24bfb7ed-140d-4c63-9304-faeb8773e6e1" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/4acac845-8885-4ceb-9461-784d183677a1" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/9fb154df-66b6-40c2-9cf8-c00383d46b7a" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/91ddd09e-ad79-41eb-a988-4f192cbf5f8d" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/375d15ad-5cea-4fb8-b4ed-7e17798f7f70" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/0b1ed3a1-39d7-4492-9a55-120479f611ab" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/10290cee-b7c9-4b1c-a19e-fa0d8552362a" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/b16b5122-d987-4bb7-a173-583ba3e0b35d" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/4024512f-119c-4f12-b120-4f7b42a89efc" />
+
+<img width="1189" height="590" alt="Image" src="https://github.com/user-attachments/assets/8f4ae213-ea18-441d-830c-b2b187918047" />
 
 Dari bar plot ini, dapat disimpulkan bahwa siswa dengan tingkat Access_to_Resources yang tinggi memiliki rata-rata Exam Score tertinggi sebesar 67.8. Hal ini menunjukkan bahwa ketersediaan sumber daya pendidikan yang tinggi cenderung memberikan dampak positif terhadap hasil ujian siswa.
 
 Pairplot:
-![Image](https://github.com/user-attachments/assets/419cfc9f-f99a-4a55-828d-094f58e08ac3)
+
+<img width="1725" height="1721" alt="Image" src="https://github.com/user-attachments/assets/f25d9f03-21d6-4376-b29f-6874f2e98a6b" />
+
 Hours_Studied dan Attendance adalah dua fitur numerik yang paling berkorelasi dengan Exam_Score. Oleh karena itu, kedua variabel ini dapat menjadi prediktor yang baik dalam model prediksi performa ujian.
 
 Heatmap:
-![Image](https://github.com/user-attachments/assets/2957a5a1-4cb2-499c-b4bd-9fa78f1e1013)
+
+<img width="874" height="799" alt="Image" src="https://github.com/user-attachments/assets/9e38840f-60d6-416c-bfcb-2c2e17172780" />
+
 Berdasarkan korelasi ini, Attendance (kehadiran) dan Hours_Studied (jam belajar) punya hubungan yang kuat dengan skor ujian, jadi ini adalah faktor penting yang memengaruhi hasil ujian. Sebaliknya, fitur seperti Sleep_Hours, Tutoring_Sessions, dan Physical_Activity hampir tidak ada hubungannya dengan skor, jadi mereka kurang relevan. Hubungan antar fitur juga lemah, jadi tidak ada fitur yang saling tumpang-tindih informasi di antaranya.
 
 
@@ -219,22 +257,16 @@ Boosting adalah teknik ensemble learning lain yang membangun model secara bertah
 ## Evaluasi
 ---
 Model dievaluasi menggunakan tiga metrik utama. Pertama, Mean Squared Error (MSE), yang menghitung rata-rata selisih kuadrat antara nilai aktual dan prediksi; nilai MSE yang lebih rendah menunjukkan prediksi yang lebih akurat. Kedua, Root Mean Squared Error (RMSE), yang merupakan akar dari MSE, sehingga lebih mudah diinterpretasikan karena memiliki satuan yang sama dengan data asli. Terakhir, Mean Absolute Error (MAE), yang menghitung rata-rata selisih absolut antara nilai aktual dan prediksi. Ketiga metrik ini memberikan gambaran tentang seberapa jauh hasil prediksi dari nilai sebenarnya, dengan nilai yang lebih kecil menunjukkan performa model yang lebih baik.
+
+
 1. MSE
-
-|index|train|test|
-|---|---|---|
-|KNN|3\.6621686976389944|4\.270736301369863|
-|RF|0\.5155140494793835|3\.288765952628483|
-|Boosting|4\.937516142821449|5\.136217030879779|
-Hasilnya menunjukkan bahwa RF memiliki performa terbaik dengan MSE rendah (0.515514 pada data latih dan 3.288766 pada data uji), sementara Boosting memiliki MSE tertinggi dan kurang optimal. KNN cukup baik tetapi masih kalah dari RF.
-
-2. MSE
 
 |index|train|test|
 |---|---|---|
 |KNN|3\.6621686976390015|4\.270736301369864|
 |RF|0\.5155140494793846|3\.2887659526284834|
 |Boosting|4\.937516142821443|5\.136217030879783|
+
 Hasilnya sama, menunjukkan konsistensi penghitungan.
 Hasil menunjukkan:
 KNN: MSE moderat untuk latih (3.662) dan uji (4.271), menunjukkan keseimbangan performa.
@@ -242,26 +274,28 @@ Random Forest: MSE terendah pada data uji (3.289), menunjukkan performa terbaik,
 Boosting: MSE tertinggi pada latih (4.938) dan uji (5.136), menunjukkan performa paling lemah.
 Kesimpulannya, Random Forest adalah model terbaik untuk data ini.
 
-3. RMSE
+2. RMSE
 
 |index|train|test|
 |---|---|---|
 |KNN|1\.9136793612408014|2\.0665759849010787|
 |RF|0\.7179930706346578|1\.8134955066468963|
 |Boosting|2\.2220522367445468|2\.266322358112319|
+
 Hasil:
 KNN: RMSE moderat pada latih (1.914) dan uji (2.067), menunjukkan performa stabil.
 Random Forest: RMSE terendah pada uji (1.813), mengindikasikan performa terbaik dengan sedikit overfitting.
 Boosting: RMSE tertinggi pada latih (2.222) dan uji (2.266), mengindikasikan performa kurang optimal.
 Kesimpulan: Random Forest memiliki performa terbaik, diikuti oleh KNN. Boosting memberikan hasil terburuk pada data ini.
 
-4. MAE
+3. MAE
 
 |index|train|test|
 |---|---|---|
 |KNN|1\.5374904798172144|1\.6703767123287678|
 |RF|0\.5670366803256368|1\.4577529272986716|
 |Boosting|1\.7855063133407911|1\.8066666026586684|
+
 Hasil:
 KNN: MAE pada latih (1.537) dan uji (1.670) relatif stabil.
 Random Forest: MAE terendah pada uji (1.458), menunjukkan performa terbaik dan prediksi yang lebih akurat.
@@ -270,7 +304,8 @@ Kesimpulan: Random Forest memberikan hasil terbaik dalam hal kesalahan absolut, 
 
 
 Berikut adalah hasil evaluasi dari ketiga model:
-![Image](https://github.com/user-attachments/assets/2247305c-405d-4418-9e09-7d3e4f32df9e)
+
+<img width="586" height="413" alt="Image" src="https://github.com/user-attachments/assets/2533bb47-e0be-413d-9bd3-fa0ecc855575" />
 
 Bisa dilihat algoritma Random Forest memiliki nilai error yang paling kecil.
 
@@ -282,6 +317,7 @@ Prediksi:
 |5432|74|71\.7|72\.1|70\.5|
 |2423|69|67\.8|69\.4|69\.5|
 |4756|71|73\.0|72\.1|70\.5|
+
 Berdasarkan hasil prediksi untuk 5 sampel pertama pada data uji, dapat dilihat perbandingan antara nilai sebenarnya (y_true) dan prediksi dari masing-masing model:
 
 *   KNN cenderung memiliki prediksi yang lebih sedikit lebih rendah dibandingkan nilai sebenarnya (y_true).
